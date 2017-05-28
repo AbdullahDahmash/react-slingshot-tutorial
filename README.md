@@ -7,6 +7,9 @@
 
 React Slingshot is a comprehensive starter kit for rapid application development using React. 
 
+tutorial link: https://scotch.io/tutorials/build-a-bookshop-with-react-redux-i-react-redux-flow
+
+
 Why Slingshot?
 
 1. **One command to get started** - Type `npm start` to start development in your default browser.
